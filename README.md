@@ -7,6 +7,9 @@ This project implements a movie recommendation system using a graph neural netwo
 - movies_fixed.csv
 - ratings.csv (hosted externally due to large size)
 
+Ratings dataset link:
+<https://drive.google.com/file/d/1dgZ5t6jceU-KqlHn9SAIFpFVvL8aH3FV/view?usp=drive_link>
+
 ## Tech Stack
 - Python
 - PyTorch
